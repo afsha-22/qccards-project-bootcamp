@@ -1,7 +1,7 @@
 {
   "name": "tpc-qccards",
   "version": "1.0.0",
-  "description": "QC Cards POC App",
+  "description": "Toyota QC Cards POC App",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,7 +25,7 @@
     "fs": "^0.0.1-security",
     "jsonwebtoken": "^8.5.1",
     "mysql": "github:mysqljs/mysql",
-    "mysql2": "^2.3.2",
+    "mysql2": "^2.1.0",
     "readline": "^1.3.0",
     "sequelize": "^5.21.3"
   }
