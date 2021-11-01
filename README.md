@@ -13,8 +13,16 @@ QC Cards App for Monash Bootcamp Project
 5. The manager can assign this card to the inspector and view the progress at anytime.
 6. The manager can manually create the new PFI card, if required.
 
-## How to run it
+## Techologies Used:
+1. React for the front end
+2. Node.js and Express.js server
+3. Mysql for the database
+4. Queries and mutations for retrieving, adding, updating, and deleting data
+5. Polished UI and interactive application
+6. Deployed using Heroku
+7. JWT Authentication
 
+## How to run it
 1. Download the copy of the project and open it in an IDE (preferably Visual Studio).
 2. Run `npm install` from the root folder and client folder to install all the dependencies.
 3. To start the server, run `node server.js` from the root folder.
