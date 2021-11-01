@@ -1,7 +1,11 @@
 # qccards-project-bootcamp
 QC Cards App for Monash Bootcamp Project
 
-![The Quality Control application](./assets/demo_image.png)
+![The Quality Control application](./client/public/Image1.png)
+![The Quality Control application](./client/public/Image2.png)
+![The Quality Control application](./client/public/Image3.png)
+![The Quality Control application](./client/public/Image4.png)
+![The Quality Control application](./client/public/Image5.png)
 
 > **Note**: The above mockup is not the true representation. Please try yourself for better experience.
 
